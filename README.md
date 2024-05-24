@@ -6,5 +6,5 @@ I have completed my Bachelors degree in Economics at UCL. Currently, I am pursui
 
 Skills: Python 3/ C++/ AI/ Machine Learning/ Big Data/ Relational Databases
 
-Project 1: Predicting Luxury Watch Prices with an MLP model
+[Project 1: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)
 
