@@ -1,9 +1,7 @@
 # Pavel's Portfolio
 
-### Hi there 👋, my name is Pavel Kim
-#### I am an aspiring Data Scientist
-I have completed my Bachelors degree in Economics at UCL. Currently, I am pursuing a Masters degree in Data Science at City University. 
-
+### 
+#### Please find my some of the projects I have completed below. To access the more detailed description and code please press on the title link, which will take you to the corresponding GitHub repo.
 Skills: Python 3/ C++/ AI/ Machine Learning/ Big Data/ Relational Databases
 
 [Project 1: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)
@@ -13,7 +11,7 @@ Skills: Python 3/ C++/ AI/ Machine Learning/ Big Data/ Relational Databases
 - Evaluate models: Compare Mean Squared Error (MSE) and perform cross-validation.
 - Visualize results: Plot actual vs predicted prices, error distribution histograms, scatter plots, and learning curves.
 
-[Project 2: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Luxury_Watches_MLP)
+[Project 2: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)
 
 Provide companies with a valuable tool for enhancing various operations, particularly during business meetings.
 Enable recording of video footage or live emotion detection during meetings to gauge overall mood and sentiment.
