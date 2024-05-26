@@ -19,3 +19,11 @@ Skills: Python 3/ C++/ AI/ Machine Learning/ Big Data/ Relational Databases
 - Evaluate team members' performance by analyzing emotional responses during interactions.
 - Extend utility by integrating the model into existing CCTV systems for real-time emotion detection among employees.
 - Serve as a versatile tool for enhancing decision-making processes, fostering better communication, and optimizing workplace dynamics.
+  
+**[Project 3: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
+
+- Analyze financial metrics of S&P 500 companies to understand sector-wise distributions and investment implications.
+- Dataset includes 14 columns with financial metrics like price, PE ratio, dividend yield, EPS, 52-week highs/lows, market cap, EBITDA, PS, and PB.
+- Used histograms, scatter plots, box plots, 3D scatter plots, and heatmaps to visualize data and interpret relationships.
+- Found stock price concentrations, price-EPS relationships, and sectoral dividend yield variations, with Telecommunication Services showing the highest median yield.
+- Visualizations help investors make informed decisions by highlighting sector differences, aiding in identifying growth, stability, or income opportunities.
