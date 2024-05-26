@@ -2,7 +2,6 @@
 
 ### 
 #### Please find my some of the projects I have completed below. To access the more detailed description and code please press on the title link, which will take you to the corresponding GitHub repo.
-Skills: Python 3/ C++/ AI/ Machine Learning/ Big Data/ Relational Databases
 
 **[Project 1: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 - Compare K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models for AAPL closing price prediction.
