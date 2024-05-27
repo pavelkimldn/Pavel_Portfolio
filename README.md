@@ -22,7 +22,7 @@
 - Extend utility by integrating the model into existing CCTV systems for real-time emotion detection among employees.
 - Serve as a versatile tool for enhancing decision-making processes, fostering better communication, and optimizing workplace dynamics.
   
-![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picure%206.png)
+![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%206.png)
 
 **[Project 3: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
 
