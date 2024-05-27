@@ -2,7 +2,7 @@
 
 #### Below are some of the projects I have developed. For detailed descriptions, reports, and access to the code, please click on the project titles, which will direct you to the respective GitHub repositories.repo.
 
-**[Project 1: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
+# **[Project 1: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
 
 - Analyze financial metrics of S&P 500 companies to understand sector-wise distributions and investment implications.
 - Dataset includes 14 columns with financial metrics like price, PE ratio, dividend yield, EPS, 52-week highs/lows, market cap, EBITDA, PS, and PB.
