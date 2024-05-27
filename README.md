@@ -1,4 +1,4 @@
-# Pavel's Portfolio
+# Projects
 
 #### Below are some of the projects I have developed. For detailed descriptions, reports, and access to the code, please click on the project titles, which will direct you to the respective GitHub repositories.repo.
 
