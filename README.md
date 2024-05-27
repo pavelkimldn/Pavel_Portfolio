@@ -35,7 +35,7 @@
 - Evaluate models: Compare Mean Squared Error (MSE) and perform cross-validation.
 - Visualize results: Plot actual vs predicted prices, error distribution histograms, scatter plots, and learning curves.
 
-
+![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%201.png)
 
 
 
