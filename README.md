@@ -13,7 +13,7 @@
 ![github](Picture%209.png))
 
 
-**[Project 2: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
+# **[Project 2: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
 
 - Provide companies with a valuable tool for enhancing various operations, particularly during business meetings.
 - Enable recording of video footage or live emotion detection during meetings to gauge overall mood and sentiment.
@@ -24,7 +24,7 @@
   
 ![github](Picture%206.png)
 
-**[Project 3: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
+# **[Project 3: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
 
 - Develope a simple port scanner to identify open ports on a given IP address range.
 - Port Scanner assists in network security assessments by discovering potential vulnerabilities.
@@ -34,7 +34,7 @@
 
 ![github](Picture%202.png)
 
-**[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
+# **[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
 - Compare K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models for AAPL closing price prediction.
 - Preprocess data: Select features, split dataset, and scale features.
