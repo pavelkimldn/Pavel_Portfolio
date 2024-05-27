@@ -10,7 +10,7 @@
 - Found stock price concentrations, price-EPS relationships, and sectoral dividend yield variations, with Telecommunication Services showing the highest median yield.
 - Visualizations help investors make informed decisions by highlighting sector differences, aiding in identifying growth, stability, or income opportunities.
   
-![github](/Picure%201.png)
+![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%201.png)
 
 
 **[Project 2: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
