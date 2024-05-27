@@ -22,7 +22,7 @@
 - Extend utility by integrating the model into existing CCTV systems for real-time emotion detection among employees.
 - Serve as a versatile tool for enhancing decision-making processes, fostering better communication, and optimizing workplace dynamics.
   
-![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%206.png)
+![github](Picture%206.png)
 
 **[Project 3: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
 
@@ -32,7 +32,7 @@
 - Logs scanning results for analysis.
 - Simulated scanning multiple IP addresses to generate comprehensive data.
 
-![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%202.png)
+![github](Picture%202.png)
 
 **[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
@@ -42,7 +42,7 @@
 - Evaluate models: Compare Mean Squared Error (MSE) and perform cross-validation.
 - Visualize results: Plot actual vs predicted prices, error distribution histograms, scatter plots, and learning curves.
 
-![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%201.png)
+![github](Picture%201.png)
 
 
 
