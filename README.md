@@ -1,6 +1,6 @@
 # Projects
 
-#### Below are some of the projects I have developed. For detailed descriptions, reports, and access to the code, please click on the project titles, which will direct you to the respective GitHub repositories.repo.
+#### Below are some of the projects I have developed. For detailed descriptions, reports, and access to the code, please click on the project titles, which will direct you to the respective GitHub repositories.
 
 # **[Project 1: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
 
