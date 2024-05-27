@@ -32,7 +32,7 @@
 - Logs scanning results for analysis.
 - Simulated scanning multiple IP addresses to generate comprehensive data.
 
-![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picure%202.png)
+![github](https://github.com/pavelkimldn/Pavel_Portfolio/blob/main/Picture%202.png)
 
 **[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
