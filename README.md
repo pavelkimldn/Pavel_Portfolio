@@ -33,6 +33,15 @@
 
 ![github](Picture%202.png)
 
+# **[Project 4: Discounted Cash Flow (DCF) Calculator](https://github.com/pavelkimldn/discounted_cash_flow_calculator/tree/main)**
+
+- Tool for calculating DCF and NPV for investment decisions.
+- Uses projected cash flows, discount rates, terminal value, and initial investment.
+- Sliders for adjusting discount rates and terminal values in real-time.
+- Plots cash flows, present values, cumulative DCF, and terminal value with Matplotlib.
+- Displays DCF, NPV values, and investment recommendation.
+
+
 # **[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
 - Compare K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models for AAPL closing price prediction.
