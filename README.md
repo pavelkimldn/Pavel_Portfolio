@@ -41,8 +41,10 @@
 - Plots cash flows, present values, cumulative DCF, and terminal value with Matplotlib.
 - Displays DCF, NPV values, and investment recommendation.
 
+![github](Picture%2020.png)
 
-# **[Project 4: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
+
+# **[Project 5: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
 - Compare K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models for AAPL closing price prediction.
 - Preprocess data: Select features, split dataset, and scale features.
