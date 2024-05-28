@@ -12,6 +12,7 @@
 - Evaluate team members' performance by analyzing emotional responses during interactions.
 - Extend utility by integrating the model into existing CCTV systems for real-time emotion detection among employees.
 - Serve as a versatile tool for enhancing decision-making processes, fostering better communication, and optimizing workplace dynamics.
+  
 ![github](Picture%209.png)
 
 
