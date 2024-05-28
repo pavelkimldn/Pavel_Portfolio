@@ -41,7 +41,7 @@
 - Plots cash flows, present values, cumulative DCF, and terminal value with Matplotlib.
 - Displays DCF, NPV values, and investment recommendation.
 
-![github](Picture%2021.png)
+![github](Picture%2020.png)
 
 
 # **[Project 5: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
