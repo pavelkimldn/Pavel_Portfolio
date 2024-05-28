@@ -2,6 +2,8 @@
 
 #### Below are some of the projects I have developed. For detailed descriptions, reports, and access to the code, please click on the project titles, which will direct you to the respective GitHub repositories.
 
+*(Please scroll down to view all projects)*
+
 # **[Project 1: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
 
 - Provide companies with a valuable tool for enhancing various operations, particularly during business meetings.
