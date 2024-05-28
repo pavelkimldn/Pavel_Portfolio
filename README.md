@@ -40,9 +40,9 @@
 
 - Tool for calculating DCF and NPV for investment decisions.
 - Uses projected cash flows, discount rates, terminal value, and initial investment.
-- Sliders for adjusting discount rates and terminal values in real-time.
 - Plots cash flows, present values, cumulative DCF, and terminal value with Matplotlib.
 - Displays DCF, NPV values, and investment recommendation.
+- User friendly Graphical User Interface (GUI).
 
 ![github](Picture%2020.png)
 
