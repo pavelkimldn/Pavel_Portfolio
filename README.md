@@ -42,6 +42,7 @@
 - Displays DCF, NPV values, and investment recommendation.
 
 ![github](Picture%2020.png)
+<img src="Picture%2020.png" alt="github" width="100"/>
 
 
 # **[Project 5: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
