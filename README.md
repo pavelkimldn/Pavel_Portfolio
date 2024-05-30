@@ -23,7 +23,7 @@
 - Line Plot of Simulations: Show simulated stock price paths over 252 days to illustrate possible outcomes.
 - Include a histogram of final prices and a confidence interval plot to show price variability.
   
-![github](Picture%206.png)
+![github](Picture%2023.png)
 
 # **[Project 3: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
 
