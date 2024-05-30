@@ -15,8 +15,17 @@
   
 ![github](Picture%209.png)
 
+# **[Project 2: Monte Carlo Simulation for Stock Price Prediction](https://github.com/pavelkimldn/monte_carlo_stock_price)**
 
-# **[Project 2: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
+- Simulate future stock prices to estimate potential distributions for financial analysis and risk assessment.
+- Data Collection: Fetch historical stock prices using yfinance (e.g., JPMorgan Chase & Co., JPM).
+- Monte Carlo Simulation: Calculate returns, compute statistical parameters, and perform multiple simulations over 252 trading days.
+- Line Plot of Simulations: Show simulated stock price paths over 252 days to illustrate possible outcomes.
+- Include a histogram of final prices and a confidence interval plot to show price variability.
+  
+![github](Picture%206.png)
+
+# **[Project 3: S&P 500 Data Visualisation](https://github.com/pavelkimldn/Data_Visualisation_S-P500_2022)**
 
 - Analyze financial metrics of S&P 500 companies to understand sector-wise distributions and investment implications.
 - Dataset includes 14 columns with financial metrics like price, PE ratio, dividend yield, EPS, 52-week highs/lows, market cap, EBITDA, PS, and PB.
@@ -26,7 +35,7 @@
   
 ![github](Picture%206.png)
 
-# **[Project 3: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
+# **[Project 4: Cyber Security Port Scanner](https://github.com/pavelkimldn/Cyber_Security_Port_Scanner)**
 
 - Develope a simple port scanner to identify open ports on a given IP address range.
 - Port Scanner assists in network security assessments by discovering potential vulnerabilities.
@@ -36,7 +45,7 @@
 
 ![github](Picture%202.png)
 
-# **[Project 4: Discounted Cash Flow (DCF) Calculator](https://github.com/pavelkimldn/discounted_cash_flow_calculator/tree/main)**
+# **[Project 5: Discounted Cash Flow (DCF) Calculator](https://github.com/pavelkimldn/discounted_cash_flow_calculator/tree/main)**
 
 - Tool for calculating DCF and NPV for investment decisions.
 - Uses projected cash flows, discount rates, terminal value, and initial investment.
@@ -47,7 +56,7 @@
 ![github](Picture%2020.png)
 
 
-# **[Project 5: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
+# **[Project 6: Predicting Luxury Watch Prices with an MLP model](https://github.com/pavelkimldn/Luxury_Watches_MLP)**
 
 - Compare K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models for AAPL closing price prediction.
 - Preprocess data: Select features, split dataset, and scale features.
