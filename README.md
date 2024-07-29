@@ -13,7 +13,7 @@
 - Applied the ARIMA model to predict future prices, evaluated performance using Mean Squared Error (MSE), and extended predictions to forecast prices until 2030.
 - Utilized Python and libraries such as Pandas, Matplotlib, Seaborn, Statsmodels, and Scikit-learn for data analysis and modeling.
 
-![github](image%222.png)
+![github](image222.png)
 
 # **[Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
 
