@@ -4,6 +4,20 @@
 
 *(Please scroll down to view all projects)*
 
+# **[Project 1: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/commodities_analysis)**
+
+- The project aims to analyze historical commodity price trends and develop predictive models using Python to forecast future prices, focusing on Gold.
+- The dataset includes daily prices from 2000 to March 2022, with columns such as Commodity, Date, Open, High, Low, Close, and Volume. Missing values were handled through forward filling.
+- Visualized price trends over time and calculated 50-day and 200-day moving averages to highlight short-term and long-term trends.
+- Moving averages were used to provide a clearer view of trends and smooth out short-term fluctuations, aiding in identifying potential buy/sell signals.
+- Applied the ARIMA model to predict future prices, evaluated performance using Mean Squared Error (MSE), and extended predictions to forecast prices until 2030.
+- Utilized Python and libraries such as Pandas, Matplotlib, Seaborn, Statsmodels, and Scikit-learn for data analysis and modeling.
+
+
+
+
+
+
 # **[Project 1: Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
 
 - Provide companies with a valuable tool for enhancing various operations, particularly during business meetings.
