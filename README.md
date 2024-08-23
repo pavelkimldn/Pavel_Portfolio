@@ -4,16 +4,6 @@
 
 *(Please scroll down to view all projects)*
 
-# **[Predicting Mental Health Using Decision Trees](https://github.com/pavelkimldn/mental_health)**
-
-- The project aimed to predict whether individuals would seek mental health treatment based on various work environment factors using a decision tree classifier.
-- Exploratory data analysis included data cleaning, handling missing values, and visualizations like bar charts for age distribution and pie charts for gender and country distribution, revealing 83.6% male and 16.4% female respondents, with most participants from the USA, UK, and Canada.
-- A correlation heatmap identified significant factors influencing treatment-seeking behavior, such as the company's tech status, perceived consequences of discussing physical health issues, and willingness to discuss mental health with a supervisor.
-- The decision tree model was built using a pipeline and grid search with 5-fold cross-validation and 1440 iterations, resulting in a balanced performance with an AUC of 0.84.
-- Model evaluation included a confusion matrix showing 59 true positives, 55 true negatives, 18 false positives, and 16 false negatives, along with cross-validation scores ranging from 0.72 to 0.79, indicating robustness.
-- The project aligns with Kooth's mission by providing data-driven insights that can inform better workplace mental health practices and interventions, demonstrated through various visualizations and a comprehensive methodology.
-
-![github](1006.png)
 
 # **[Emotion Detection with Computer Vision](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection)**
 
@@ -88,7 +78,16 @@
 
 ![github](image222.png)
 
+# **[Predicting Mental Health Using Decision Trees](https://github.com/pavelkimldn/mental_health)**
 
+- The project aimed to predict whether individuals would seek mental health treatment based on various work environment factors using a decision tree classifier.
+- Exploratory data analysis included data cleaning, handling missing values, and visualizations like bar charts for age distribution and pie charts for gender and country distribution, revealing 83.6% male and 16.4% female respondents, with most participants from the USA, UK, and Canada.
+- A correlation heatmap identified significant factors influencing treatment-seeking behavior, such as the company's tech status, perceived consequences of discussing physical health issues, and willingness to discuss mental health with a supervisor.
+- The decision tree model was built using a pipeline and grid search with 5-fold cross-validation and 1440 iterations, resulting in a balanced performance with an AUC of 0.84.
+- Model evaluation included a confusion matrix showing 59 true positives, 55 true negatives, 18 false positives, and 16 false negatives, along with cross-validation scores ranging from 0.72 to 0.79, indicating robustness.
+- The project aligns with Kooth's mission by providing data-driven insights that can inform better workplace mental health practices and interventions, demonstrated through various visualizations and a comprehensive methodology.
+
+![github](1006.png)
 
 
 
